@@ -1,0 +1,5 @@
+key.key
+*.txt
+*.enc
+*.dec
+__pycache__/
